@@ -7,7 +7,7 @@ The goal of this repository is to provide a solid foundation for practicing low-
 
 ## Projects
 
-In addition to data structures, the repository includes several applied system-level projects.  
+the repository includes several applied system-level projects.  
 Each project is placed inside its own directory. Below are the descriptions with placeholders for links:
 
 1. **[Thread Pool](cpp/thread_pool)**  
@@ -24,6 +24,9 @@ Each project is placed inside its own directory. Below are the descriptions with
 ## Contents
 
 ### Data Structures
+
+In addition to the projects, the repository includes a self-implementation of a variety of data structures.
+
 - Implementations of classical data structures from scratch in C and C++.
 - Emphasis on efficiency, memory handling, and clean API design.
 - Example categories include:
