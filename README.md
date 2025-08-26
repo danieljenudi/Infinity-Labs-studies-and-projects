@@ -34,6 +34,8 @@ In addition to the projects, the repository includes a self-implementation of a 
   - Trees
   - Custom containers and utilities
 
+---
+
 ### Build System
 - Multiple **Makefiles** are included across the repository.
 - Each Makefile is tailored for the relevant project or module:
@@ -42,5 +44,3 @@ In addition to the projects, the repository includes a self-implementation of a 
   - Provides reusable targets for compilation, testing, and cleaning.
 
 ---
-
-
