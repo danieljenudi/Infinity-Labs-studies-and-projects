@@ -5,8 +5,6 @@ The goal of this repository is to provide a solid foundation for practicing low-
 
 ---
 
-## Contents
-
 ## Projects
 
 the repository includes several applied system-level projects.  
